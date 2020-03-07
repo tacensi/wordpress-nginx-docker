@@ -8,3 +8,4 @@ mysql/
 wordpress/
 !.env_example
 !nginx/default*
+!wordpres/content
